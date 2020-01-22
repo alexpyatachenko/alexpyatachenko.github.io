@@ -1,0 +1,79 @@
+.menu {
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+	text-align: right;
+	font-family: 'Inria Serif', serif;
+	font-size: 14px;
+	margin-top: 44px;
+}
+.menu li {
+	display: inline;
+	margin-right: 16px;
+}
+.icon {
+	float: left;
+	width:90px;
+	height:68px;
+	position: relative;
+	bottom: 20px;
+}
+body {
+	width: 1148px;
+	margin: auto;
+}
+.logo {
+	margin-top: 91px;
+	margin-bottom: 132px;
+	width: 756px;
+	height: 464px;
+	position: relative;
+	left: 70px;
+}
+.services, .lblog, .contme {
+	
+	margin-bottom: 68px;
+	text-align: center;
+	font-family: Calibri;
+	font-weight: bold;
+	font-size: 42px;
+	color: #336666;
+
+}
+.services-columns div {
+	display: inline;
+	width: 1144px;
+
+
+}
+.services-columns {
+	margin-bottom: 85px;
+}
+.lblogs div {
+	display: inline;
+
+
+
+}
+.lblogs {
+	margin-bottom: 105px;
+}
+.lblog1 {
+	margin-right: 38px;
+	position: relative;
+}
+.lblog3 {
+	position: relative;
+	top: 20px;
+	left: 278px;
+	
+
+}
+.descr{
+	position: absolute;
+	bottom: 0px;
+	background-color:rgba(0,0,0,.5);
+	color: white;
+	padding: 20px;
+	width: 510px;
+}
